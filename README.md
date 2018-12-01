@@ -1,7 +1,7 @@
 # palmetto-log-notebook
 Notebook for analyzing Palmetto GPU logs. 
 
-##Usage:
+## Usage:
 
 Unzip input with ```unzip dataset.json.zip```
 
